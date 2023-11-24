@@ -1,4 +1,4 @@
-### Hi 👋🏻, I'm Guadalupe Doudchitzky Amadeo
+# Hi 👋🏻, I'm Guadalupe Doudchitzky Amadeo
 
 ## 📲 FullStack Developer (MERN) & UX/UI designer
 <!--
