@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋🏻, I'm Guadalupe Doudchitzky Amadeo
 
+## 📲 FullStack Developer (MERN) & UX/UI designer
 <!--
 **Guadixx/Guadixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
