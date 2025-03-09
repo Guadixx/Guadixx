@@ -1,6 +1,6 @@
 # Hi 👋🏻, I'm Guadalupe Doudchitzky Amadeo
 
-## 📲 FullStack Developer (MERN) & UX/UI designer
+## 📲 Frontend developer & UX/UI designer
 
 
  📍  I'm based in Madrid, Spain
@@ -9,7 +9,7 @@
  
  📫  You can contact me at guadadoud@gmail.com
  
- 🧉  On my free time you can find me doing anything art related like music, painting, collages or watching movies, and last but not least always drinking mate.
+ 🧉  On my free time you can find me doing anything art related like music, painting, collages or watching movie.
  
  
 
